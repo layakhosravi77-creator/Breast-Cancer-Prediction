@@ -170,6 +170,5 @@ This project is intended for educational and research purposes.
 
 ## 👨‍💻 Author
 
-**Your Name**
-
+**Laya Khosravi**
 Master's Student in Computer Science
